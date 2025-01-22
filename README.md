@@ -11,6 +11,7 @@ Piano Master is an interactive and educational game designed to help users learn
 * Error Tracking: Keep track of mistakes through a badge system. Lose all badges, and the game ends.
 * Support for MP3 Files: Allows playback of audio for better understanding and rhythm matching.
 ### Instructions for Using
+Executing Java code in Main.java.
 1. Home Screen
 * Enter your name on the home page.
   * If no name is entered, a message will prompt: **"You haven't entered your name!"**.
