@@ -1,6 +1,8 @@
 ## PianoPro: A piano-learning game built in Java
 Piano Master is an interactive and educational game designed to help users learn piano. Through practice and fun challenges, users can master songs while receiving real-time feedback and visual guidance.
 ### Using Tools: Javafx, SceneBuilder
+![image](https://github.com/user-attachments/assets/bfcd0062-0d5c-4e38-b522-2056621479ac)
+
 ### Features
 * Interactive Keyboard: Pressed keys light up on the virtual keyboard, with notes displayed on a staff for clarity.
 * Song Selection: Choose from a variety of songs, each with a unique difficulty level.
