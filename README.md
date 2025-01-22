@@ -11,12 +11,12 @@ Piano Master is an interactive and educational game designed to help users learn
 ### Instructions for Using
 1. Home Screen
 * Enter your name on the home page.
-  * If no name is entered, a message will prompt: "You haven't entered your name!".
-* Press Start to begin or Exit to quit the game.
+  * If no name is entered, a message will prompt: **"You haven't entered your name!"**.
+* Press **Start** to begin or **Exit** to quit the game.
 2. Key Practice and Tutorials
 * Press any key to see it light up on the virtual keyboard.
 * Notes corresponding to the keys appear on the staff as a red marker.
-* After practice, press Go to continue.
+* After practice, press **Go** to continue.
 3. Song Selection
 * Navigate with arrow keys to choose a song.
 * Press Spacebar to start playing the selected song.
@@ -28,9 +28,11 @@ Piano Master is an interactive and educational game designed to help users learn
 * Players start with three badges.
   * Lose a badge for each mistake.
   * Lose all badges, and the game ends.
-* Successful completion displays a "You WIN!!!" message and proceeds to the next stage.
+* Successful completion displays a **"You WIN!!!"** message and proceeds to the next stage.
 5. Result and Badge System
 * Earn a badge for each completed song, displayed in your collection.
 * Successfully completed songs are marked with a red check.
 * Continue challenging other songs or revisit previously completed ones.
+
+For more imformation or Chinese version, please view at **Final Project-Piano Master.pptx**.
 
